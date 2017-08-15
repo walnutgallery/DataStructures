@@ -1,0 +1,22 @@
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h
+timing.o: timing.cpp algorithm.h
+timing.o: timing.cpp algorithm.h
+timing.o: timing.cpp algorithm.h
+timing.o: timing.cpp algorithm.h
+test_algorithm.o: test_algorithm.cpp algorithm.h unit_test.h
+timing.o: timing.cpp algorithm.h

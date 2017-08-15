@@ -1,0 +1,89 @@
+//******************************************************************************
+// This section is the main page of the HTML and the first chapter in LaTeX.
+//******************************************************************************
+
+/**
+ * \mainpage Overview
+ *
+ * \section overview Overview
+ * Assingmnet 1 focuses on implementation of the sequential unordered data
+ * structures such as list, vector, and stack. Different from the class
+ * however, this assignment takes the point of view of the c++ stl. As such,
+ * you will be implementing an interface which is very similar to the stl's
+ * version of list, vector, etc.
+ *
+ * Essentially, this assingment mainly focuses on implementation but you must
+ * turn in a report as well. The report focuses on analyzing Big-Oh and
+ * performance of MySTL.
+ *
+ * If you have questions, or if something is unclear, please post on piazza.
+ *
+ * \section Programming Assignment
+ * In this assignment, you need to implement all items which can be found under
+ * <a href="todo.html">todos</a>, which is essentially all constructors,
+ * copying, and manipulation of the data structures.
+ *
+ * After completing, feel free to remove each doxygen todo statement from the
+ * code, this way you can keep track!
+ *
+ * Unit testing is provided to aid you in determining if your implementation is
+ * correct, however, note the tests are not exhaustive! If all tests are
+ * reported to pass, this is only part of the process. If you are not convinced
+ * your code is correct, please add more tests.
+ *
+ * \section Report
+ * Your report will include the objective of the assignment, a brief description
+ * of your implementation and experiments, and discussion of your results. At a
+ * minimum, your report should include the following sections:
+ * - <b>Introduction</b>. In this section, state or describe the objective of
+ *   the assignment, a statement about what you learned in the assignment, and a
+ *   statement summarizing your results.
+ * - <b>Implementation details</b>. Give a brief description of how you
+ *   implemented the assignment, including what you learned.
+ * - <b>Theoretical analysis</b>. In this section, you should provide an
+ *   analysis of and theoretical discussion (i.e Big-Oh) of the following
+ *   operations:
+ *   - Resizing an array by doubling
+ *   - Resizing an array by incremental increase
+ *   - Pushing back elements on a list
+ *   - Discuss the differences on the list/vector implementation of a stack and
+ *     why you might prefer one over the other.
+ * - <b>Experimental Setup</b>. In this section, you should provide a
+ *   description of your experiment setup, which includes but is not limited to
+ *   Machine specification, i.e., processor type, amount of ram, OS, etc.
+ * - <b>Results & Discussion</b>. In this section, you will compare the
+ *   performance of the various data strucutes. Include and discuss the
+ *   following plots:
+ *     -# Plot input size vs. time / input size, i.e., amortized time on vector
+ *     push back with doubling strategy, vector push back with incremental
+ *     strategy, and list push back.
+ *     -# Plot input size vs. (time / input size)/expected time for the three
+ *     operations and determine the Big-Oh constants.
+ *     -# Plot input size vs. time on n stack operations (can be n pops on a stack
+ *     of size 2n, n pushes, or n random operations on a stack of size 2n) with a
+ *     list based stack and a vector based stack. Discuss the differences in
+ *     timing.
+ *   For operations which take O(n^2) test the following input sizes: 2^1, ...,
+ *   2^18. For operations which take O(n) or O(1) test the following input sizes:
+ *   2^1, ..., 2^23.
+ *
+ *   For plot discussions think of this: what is presented in each plot (i.e.,
+ *   explain the data), what conclusion to do see from the data (i.e., learn
+ *   from the data), and connect the data back to your theoretical discussion.
+ * - <b>Conclusion</b>. Summarize the results found in the experiment.
+ *
+ * \section bonus Bonus
+ * Implement insert and erase for vector and list and implement the queue
+ * adaptive container. Compare in your experiments: insert, erase, and the
+ * queue. (to get full credit you need to design these experiments, but please
+ * discuss in office hours or piazza if you have questions). All bonus items can
+ * be found <a href="bonus.html">here</a>.
+ *
+ * \section components Code Components
+ * - \ref MySTL - Core library containers including list, vector, stack, and
+ *        queue.
+ *
+ * - \ref Testing - Classes and utilities for unit testing MySTL.
+ *
+ * - \ref timing.cpp - File to aid in timing experiments for report.
+ **/

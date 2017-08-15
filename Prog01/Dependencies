@@ -1,0 +1,184 @@
+test_list.o: test_list.cpp list.h unit_test.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing.o: timing.cpp vector.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing_list.o: timing_list.cpp list.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+test_list.o: test_list.cpp list.h unit_test.h
+timing_list.o: timing_list.cpp list.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing_list.o: timing_list.cpp list.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing_list.o: timing_list.cpp list.h
+timing_stack.o: timing_stack.cpp stack.h list.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing_list.o: timing_list.cpp list.h
+timing_stack.o: timing_stack.cpp stack.h list.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_list.o: timing_list.cpp list.h
+timing_stack.o: timing_stack.cpp stack.h list.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+timing.o: timing.cpp vector.h
+test_list.o: test_list.cpp list.h unit_test.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h unit_test.h
+test_queue.o: test_queue.cpp list.h queue.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_list.o: timing_list.cpp list.h
+timing_stack.o: timing_stack.cpp stack.h list.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+test_vector.o: test_vector.cpp vector.h unit_test.h
+test_stack.o: test_stack.cpp list.h stack.h vector.h unit_test.h
+timing.o: timing.cpp vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
+timing_stack.o: timing_stack.cpp stack.h list.h vector.h
